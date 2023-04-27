@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "599344696607",
+    "project_id": "nas-entrepreneurs",
+    "storage_bucket": "nas-entrepreneurs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599344696607:android:5763e392d6dc03eb3cb42a",
+        "android_client_info": {
+          "package_name": "com.android.marketplace_nisar_school"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599344696607-cpg7hllabcc6e6cfs9sd5i84gkn3hieb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ4OusLkwzC7cmEnLJ7hu8w8b1EKhtm_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599344696607-cpg7hllabcc6e6cfs9sd5i84gkn3hieb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
